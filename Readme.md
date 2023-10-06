@@ -15,7 +15,7 @@
 - [Docker 설치](https://docs.docker.com/get-docker/ )
 - JetBrains 용 AWS Toolkit 설정
 	- [https://blog.jetbrains.com/idea/2022/02/aws-in-intellij-idea/](https://blog.jetbrains.com/idea/2022/02/aws-in-intellij-idea/)
-	- [https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/getting-started.html](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/getting-started.html)
+	- [참고: https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/getting-started.html](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/getting-started.html)
 
 ### 2.2 AWS Lambda를 포함한 서버리스 앱 생성, [로컬] 실행, 배포하기
 1. 서버리스 앱 프로젝트 생성
