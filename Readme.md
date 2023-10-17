@@ -37,7 +37,7 @@
 4. AWS에 배포하기	
 	- **HelloServerlessApp** 프로젝트 탐색창에서 **template.yaml**을 찾아서 선택하고, 선택된 상태에서 오른쪽 마우스 클릭하여 **SyncServerless Application (formerly Deploy)** 메뉴를 선택
 	- [**Confir development stack**] 다이얼로그 화면에서 **Confirm** 선택
-	- [**SyncServerless Application (formerly Deploy)**] 다이얼로그 화면에서, **Create Stack**에 적절한 이름(예, *HelloServerlessApp*)을 입력 후에, **Sync** 클릭
+	- [**SyncServerless Application (formerly Deploy)**] 다이얼로그 화면에서, **Create Stack**에 적절한 이름(예, *HelloServerlessApp*)을 입력 하고, **CloudFormation Capabilities:** 에서 **IAM** 체크박스를 선택한 후, **Sync** 클릭
 		- [**참고**] 한참 동안 진행이 안되면 현재 스텝을 한번더 수행해 본다.  
 	- 콘솔 창에 다음 결과가 맨 마지막 줄에 출력되는 지를 확인
 
